@@ -1,4 +1,4 @@
-### 🚀 Employee Payroll System in Java
+# 🚀 Employee Payroll System in Java
 
 Welcome to the Employee Payroll System project! This repository showcases a well-structured, terminal-based payroll management system built using Java and follows Object-Oriented Programming (OOP) principles.
 
@@ -6,7 +6,7 @@ Welcome to the Employee Payroll System project! This repository showcases a well
 
 This project demonstrates how to implement an Employee Payroll System with a strong focus on OOP concepts such as abstraction, inheritance, encapsulation, and polymorphism. It enables organizations to manage employee payroll efficiently, supporting full-time and part-time employees with automated salary calculations.
 
-# 🔍 Project Highlights
+### 🔍 Project Highlights
 
 1. Abstract Employee Class: Serves as the base class for different employee types. FullTimeEmployee & PartTimeEmployee Subclasses: Extend the base class to implement salary calculations.
 
