@@ -18,7 +18,7 @@ This project demonstrates how to implement an Employee Payroll System with a str
 
 5. Polymorphism in Action: Overridden methods for salary calculation based on employee type.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Programming Language: Java (JDK 8+)
 Database: MySQL
@@ -27,7 +27,7 @@ OOP Concepts: Encapsulation, Inheritance, Abstraction, Polymorphism
 Development Tools: IntelliJ IDEA / Eclipse
 Version Control: Git & GitHub
 
-# 📁 Repository Contents
+### 📁 Repository Contents
 
 Source Code: Java implementation of the Employee Payroll System.
 Database Script: SQL queries to create necessary tables.
